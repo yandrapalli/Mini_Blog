@@ -23,6 +23,7 @@ ins {
   border-radius: 20px;
 }
 audio {
+  width: 100%;
   border-radius: 50px;
   box-shadow: rgb(143, 1, 126) 0px 0px 20px;
   margin: 5px auto;
